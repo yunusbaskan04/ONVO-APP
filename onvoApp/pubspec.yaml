@@ -1,0 +1,54 @@
+name: onvo
+description: "A new Flutter project."
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  mysql1: ^0.20.0
+  http: ^1.4.0
+  youtube_player_flutter: ^9.1.1
+  uuid: ^4.5.1
+  file_picker: ^10.2.0
+  flutter_typing_indicator: ^0.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/photos/onvo.png
+    - assets/icons/ab-testing.png
+    - assets/icons/compare.png
+    - assets/icons/messages_icon.png
+    - assets/icons/paper.png
+    - assets/icons/attachment.png
+    - assets/icons/send.png
+    - assets/icons/profile.png
+    - assets/icons/profile1.png
+    - assets/icons/onvoProfile1.png
+    - assets/icons/onvoProfile2.png
+    - assets/icons/robot-assistant.png
+    - assets/icons/chatbot.png
+    - assets/photos/onvoLogo.png
+
+
+    
+
+
+
+
+
